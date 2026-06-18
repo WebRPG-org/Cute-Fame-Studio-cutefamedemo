@@ -1,2 +1,0 @@
-nw.dll filter=lfs diff=lfs merge=lfs -text
-Game.exe filter=lfs diff=lfs merge=lfs -text
